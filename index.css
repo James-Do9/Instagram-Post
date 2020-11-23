@@ -1,0 +1,29 @@
+.igpost{
+	height: 480px;
+	width: 480px;
+}
+
+.header{
+	font-size: 12px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.headerstart{
+    display:flex;
+    justify-content:start;
+}
+
+ .header p{
+ 	line-height: 1.2;
+ }
+
+.photo img{
+	max-width: 100%;
+	max-height: 100%;
+}
+
+.iconContainer{
+    display: flex;
+    justify-content: space-between;
+}
